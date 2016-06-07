@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">Converter</string>
+
+    <string-array name = "FromWeights">
+        <item>Stones</item>
+        <item>Pounds</item>
+        <item>Ounces</item>
+        <item>Grains</item>
+        <item>Metric tons</item>
+        <item>Kilograms</item>
+        <item>Grams</item>
+        <item>Milligrams</item>
+    </string-array>
+
+    <string-array name = "ToWeights">
+        <item>Stones</item>
+        <item>Pounds</item>
+        <item>Ounces</item>
+        <item>Grains</item>
+        <item>Metric tons</item>
+        <item>Kilograms</item>
+        <item>Grams</item>
+        <item>Milligrams</item>
+    </string-array>
 </resources>
+
+
